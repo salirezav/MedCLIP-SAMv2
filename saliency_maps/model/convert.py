@@ -8,7 +8,8 @@ import glob
 from open_clip.hf_model import HFTextEncoder
 from open_clip.model import CLIPVisionCfg
 from transformers import CLIPVisionConfig, VisionTextDualEncoderConfig
-from modeling_biomed_clip import BiomedCLIPModel
+from .modeling_biomed_clip import BiomedCLIPModel
+# from modeling_biomed_clip import BiomedCLIPModel
 
 
 VISION_CONFIG_MAP = {
@@ -127,6 +128,19 @@ if __name__ == "__main__":
         # Load the first .pt file found
         state_dict = torch.load(pt_files[0])
         print(f"Loaded model: {pt_files[0]}")
+        
+        # 1) If it’s a typical trainer checkpoint:
+        if "state_dict" in state_dict:
+            state_dict = state_dict["state_dict"]
+
+        # 2) Remove "model." prefix if it exists
+        for k in list(state_dict.keys()):
+            if k.startswith("model."):
+                state_dict[k.replace("model.", "")] = state_dict.pop(k)
+
+        # 3) Now load into openclip model with strict or not
+        # openclip_model.load_state_dict(state_dict, strict=False)
+        
     else:
         print("No .pt files found in the directory.")
     for key in list(state_dict.keys()):
