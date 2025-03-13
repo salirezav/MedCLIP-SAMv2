@@ -1,14 +1,15 @@
 Set-Location biomedclip_finetuning/open_clip/src
 
-CUDA_VISIBLE_DEVICES=0 python3 -m open_clip_train.main `
-    --batch-size 8 `
+$env:CUDA_VISIBLE_DEVICES = "0"
+python -m open_clip_train.main `
+    --batch-size 16 `
     --workers 4 `
     --report-to tensorboard `
     --save-frequency 1 `
     --logs="logs" `
     --dataset-type csv `
     --csv-separator="," `
-    --train-data ./data/cilia_and_cell/cilia_and_cell.csv `
+    --train-data ./data/cilia_and_cell/cilia.csv `
     --csv-img-key image_path `
     --csv-caption-key caption `
     --lr=1e-3 `
@@ -20,7 +21,8 @@ CUDA_VISIBLE_DEVICES=0 python3 -m open_clip_train.main `
     --temperature-dhnnce 0.6 `
     --alpha-dhnnce 0.0 `
     --beta1-dhnnce 0.15 `
-    --beta2-dhnnce 0.15
+    --beta2-dhnnce 0.15 `
+    --name "cilia"
 
 
 
