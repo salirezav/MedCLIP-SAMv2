@@ -11,43 +11,21 @@ from transformers import CLIPVisionConfig, VisionTextDualEncoderConfig
 from modeling_biomed_clip import BiomedCLIPModel
 
 
-VISION_CONFIG_MAP = {
-    "layers": "num_hidden_layers",
-    "width": "hidden_size",
-    "patch_size": "patch_size",
-    "image_size": "image_size",
-}
+VISION_CONFIG_MAP = {"layers": "num_hidden_layers", "width": "hidden_size", "patch_size": "patch_size", "image_size": "image_size"}
 STATE_DICT_PATTERNS = [
-
     # Vision
     (r"visual\.head.proj.(\w+)", "visual_projection.{0}"),
     (r"visual\.trunk\.norm\.(\w+)", "vision_model.post_layernorm.{0}"),
     (r"visual\.trunk.patch_embed\.proj\.(\w+)", "vision_model.embeddings.patch_embedding.{0}"),
-    (
-        r"visual\.trunk\.blocks\.(\w+)\.norm2\.(\w+)",
-        "vision_model.encoder.layers.{0}.layer_norm2.{1}",
-    ),
-    (
-        r"visual\.trunk\.blocks\.(\w+)\.norm1\.(\w+)",
-        "vision_model.encoder.layers.{0}.layer_norm1.{1}",
-    ),
-    (
-        r"visual\.trunk\.blocks\.(\w+)\.attn\.proj\.(\w+)",
-        "vision_model.encoder.layers.{0}.self_attn.out_proj.{1}",
-    ),
-    (
-        r"visual\.trunk\.blocks\.(\w+)\.mlp\.fc1\.(\w+)",
-        "vision_model.encoder.layers.{0}.mlp.fc1.{1}",
-    ),
-    (
-        r"visual\.trunk\.blocks\.(\w+)\.mlp\.fc2\.(\w+)",
-        "vision_model.encoder.layers.{0}.mlp.fc2.{1}",
-    ),
+    (r"visual\.trunk\.blocks\.(\w+)\.norm2\.(\w+)", "vision_model.encoder.layers.{0}.layer_norm2.{1}"),
+    (r"visual\.trunk\.blocks\.(\w+)\.norm1\.(\w+)", "vision_model.encoder.layers.{0}.layer_norm1.{1}"),
+    (r"visual\.trunk\.blocks\.(\w+)\.attn\.proj\.(\w+)", "vision_model.encoder.layers.{0}.self_attn.out_proj.{1}"),
+    (r"visual\.trunk\.blocks\.(\w+)\.mlp\.fc1\.(\w+)", "vision_model.encoder.layers.{0}.mlp.fc1.{1}"),
+    (r"visual\.trunk\.blocks\.(\w+)\.mlp\.fc2\.(\w+)", "vision_model.encoder.layers.{0}.mlp.fc2.{1}"),
     # Text
     (r"text\.transformer\.embeddings\.token_type_embeddings.(\w+)", "text_model.embeddings.token_type_embedding.{0}"),
     (r"text\.transformer\.embeddings\.word_embeddings.(\w+)", "text_model.embeddings.token_embedding.{0}"),
     (r"text\.transformer\.embeddings\.position_embeddings.(\w+)", "text_model.embeddings.position_embedding.{0}"),
-
     (r"text\.transformer\.embeddings\.LayerNorm\.(\w+)", "text_model.embeddings.layer_norm.{0}"),
     (r"text\.transformer\.encoder\.layer\.(\w+).attention.self.key.(\w+)", "text_model.encoder.layers.{0}.self_attn.k_proj.{1}"),
     (r"text\.transformer\.encoder\.layer\.(\w+).attention.self.query.(\w+)", "text_model.encoder.layers.{0}.self_attn.q_proj.{1}"),
@@ -64,9 +42,7 @@ STATE_DICT_PATTERNS = [
 
 def convert_vision_config(config: CLIPVisionCfg):
     config = dataclasses.asdict(config)
-    new_config = {
-        "hidden_act": "gelu",
-    }
+    new_config = {"hidden_act": "gelu"}
     for key, value in config.items():
         if key in VISION_CONFIG_MAP:
             new_config[VISION_CONFIG_MAP[key]] = value
@@ -117,11 +93,14 @@ def convert_state_dict(state_dict):
             new_state_dict[k] = v
 
     return new_state_dict
+
+
 from open_clip import create_model_from_pretrained
 import json
+
 if __name__ == "__main__":
     openclip_config = json.load(open("saliency_maps/model/config.json"))
-    openclip_model, _ = create_model_from_pretrained('hf-hub:microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224')
+    openclip_model, _ = create_model_from_pretrained("hf-hub:microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224")
     pt_files = glob.glob(f"saliency_maps/model/*.pt")
     if pt_files:
         # Load the first .pt file found
@@ -130,8 +109,8 @@ if __name__ == "__main__":
     else:
         print("No .pt files found in the directory.")
     for key in list(state_dict.keys()):
-        if(key.startswith("model.")):
-            state_dict[key.replace('model.', '')] = state_dict.pop(key)
+        if key.startswith("model."):
+            state_dict[key.replace("model.", "")] = state_dict.pop(key)
     openclip_model.load_state_dict(state_dict)
     for i in openclip_model.state_dict().keys():
         print(i)
@@ -141,8 +120,8 @@ if __name__ == "__main__":
     text_config = openclip_model.text.config
     state_dict = convert_state_dict(openclip_model.state_dict())
     from transformers import AutoModel, AutoProcessor, AutoTokenizer
+
     model = AutoModel.from_pretrained("chuhac/BiomedCLIP-vit-bert-hf", trust_remote_code=True)
     processor = AutoProcessor.from_pretrained("chuhac/BiomedCLIP-vit-bert-hf", trust_remote_code=True)
     tokenizer = AutoTokenizer.from_pretrained("chuhac/BiomedCLIP-vit-bert-hf", trust_remote_code=True)
     torch.save(state_dict, "saliency_maps/model/pytorch_model.bin")
-    
