@@ -15,7 +15,7 @@ python -m open_clip_train.main `
     --lr=1e-3 `
     --wd=0.1 `
     --warmup 1000 `
-    --epochs=32 `
+    --epochs=15 `
     --model hf-hub:microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224 `
     --dhnnce-loss `
     --temperature-dhnnce 0.6 `
