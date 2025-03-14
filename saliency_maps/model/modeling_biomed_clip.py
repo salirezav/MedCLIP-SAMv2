@@ -41,7 +41,7 @@ from transformers.utils import ModelOutput, add_code_sample_docstrings, add_star
 from transformers.models.clip.configuration_clip import CLIPConfig, CLIPTextConfig, CLIPVisionConfig
 from transformers.models.clip.modeling_clip import CLIPPreTrainedModel, CLIPMLP, CLIPVisionEmbeddings, CLIPOutput
 
-from configuration_biomed_clip import BiomedCLIPTextProjectionConfig, BiomedCLIPConfig
+from .configuration_biomed_clip import BiomedCLIPTextProjectionConfig, BiomedCLIPConfig
 
 
 logger = logging.get_logger(__name__)

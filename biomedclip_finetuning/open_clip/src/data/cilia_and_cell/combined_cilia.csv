@@ -1,0 +1,651 @@
+mask_path,multiclass_mask_path,image_path,size,cell_type,exposed,overlaying,caption
+D:\Cilia Data\converted_masks\cilia\1001-1.npy,D:\Cilia Data\converted_masks\full\1001-1.npy,D:\Cilia Data\first_frames\1001-1.png,640x480,normal,False,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1001-13.npy,D:\Cilia Data\converted_masks\full\1001-13.npy,D:\Cilia Data\first_frames\1001-13.png,512x384,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1001-2.npy,D:\Cilia Data\converted_masks\full\1001-2.npy,D:\Cilia Data\first_frames\1001-2.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1001-3.npy,D:\Cilia Data\converted_masks\full\1001-3.npy,D:\Cilia Data\first_frames\1001-3.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1001-5.npy,D:\Cilia Data\converted_masks\full\1001-5.npy,D:\Cilia Data\first_frames\1001-5.png,512x384,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1001-6.npy,D:\Cilia Data\converted_masks\full\1001-6.npy,D:\Cilia Data\first_frames\1001-6.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1001-8.npy,D:\Cilia Data\converted_masks\full\1001-8.npy,D:\Cilia Data\first_frames\1001-8.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1002-1.npy,D:\Cilia Data\converted_masks\full\1002-1.npy,D:\Cilia Data\first_frames\1002-1.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1003-1.npy,D:\Cilia Data\converted_masks\full\1003-1.npy,D:\Cilia Data\first_frames\1003-1.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1003-10.npy,D:\Cilia Data\converted_masks\full\1003-10.npy,D:\Cilia Data\first_frames\1003-10.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1003-2.npy,D:\Cilia Data\converted_masks\full\1003-2.npy,D:\Cilia Data\first_frames\1003-2.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1003-7.npy,D:\Cilia Data\converted_masks\full\1003-7.npy,D:\Cilia Data\first_frames\1003-7.png,640x480,normal,False,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1003-8.npy,D:\Cilia Data\converted_masks\full\1003-8.npy,D:\Cilia Data\first_frames\1003-8.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1004-3.npy,D:\Cilia Data\converted_masks\full\1004-3.npy,D:\Cilia Data\first_frames\1004-3.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1006-6.npy,D:\Cilia Data\converted_masks\full\1006-6.npy,D:\Cilia Data\first_frames\1006-6.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1006-7.npy,D:\Cilia Data\converted_masks\full\1006-7.npy,D:\Cilia Data\first_frames\1006-7.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1011-3.npy,D:\Cilia Data\converted_masks\full\1011-3.npy,D:\Cilia Data\first_frames\1011-3.png,640x256,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1011-4.npy,D:\Cilia Data\converted_masks\full\1011-4.npy,D:\Cilia Data\first_frames\1011-4.png,640x480,normal,False,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1011-5.npy,D:\Cilia Data\converted_masks\full\1011-5.npy,D:\Cilia Data\first_frames\1011-5.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1013-2.npy,D:\Cilia Data\converted_masks\full\1013-2.npy,D:\Cilia Data\first_frames\1013-2.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1015-2.npy,D:\Cilia Data\converted_masks\full\1015-2.npy,D:\Cilia Data\first_frames\1015-2.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1015-5.npy,D:\Cilia Data\converted_masks\full\1015-5.npy,D:\Cilia Data\first_frames\1015-5.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1023-1.npy,D:\Cilia Data\converted_masks\full\1023-1.npy,D:\Cilia Data\first_frames\1023-1.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1025-5.npy,D:\Cilia Data\converted_masks\full\1025-5.npy,D:\Cilia Data\first_frames\1025-5.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1026-5.npy,D:\Cilia Data\converted_masks\full\1026-5.npy,D:\Cilia Data\first_frames\1026-5.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1027-1.npy,D:\Cilia Data\converted_masks\full\1027-1.npy,D:\Cilia Data\first_frames\1027-1.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1028-3.npy,D:\Cilia Data\converted_masks\full\1028-3.npy,D:\Cilia Data\first_frames\1028-3.png,512x384,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1028-5.npy,D:\Cilia Data\converted_masks\full\1028-5.npy,D:\Cilia Data\first_frames\1028-5.png,512x384,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1029-1.npy,D:\Cilia Data\converted_masks\full\1029-1.npy,D:\Cilia Data\first_frames\1029-1.png,320x240,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1029-7.npy,D:\Cilia Data\converted_masks\full\1029-7.npy,D:\Cilia Data\first_frames\1029-7.png,512x384,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1030-1.npy,D:\Cilia Data\converted_masks\full\1030-1.npy,D:\Cilia Data\first_frames\1030-1.png,320x240,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1030-3.npy,D:\Cilia Data\converted_masks\full\1030-3.npy,D:\Cilia Data\first_frames\1030-3.png,320x240,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1030-5.npy,D:\Cilia Data\converted_masks\full\1030-5.npy,D:\Cilia Data\first_frames\1030-5.png,320x240,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1030-6.npy,D:\Cilia Data\converted_masks\full\1030-6.npy,D:\Cilia Data\first_frames\1030-6.png,320x240,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1031-1.npy,D:\Cilia Data\converted_masks\full\1031-1.npy,D:\Cilia Data\first_frames\1031-1.png,320x240,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1031-3.npy,D:\Cilia Data\converted_masks\full\1031-3.npy,D:\Cilia Data\first_frames\1031-3.png,320x240,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1032-7.npy,D:\Cilia Data\converted_masks\full\1032-7.npy,D:\Cilia Data\first_frames\1032-7.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1033-3.npy,D:\Cilia Data\converted_masks\full\1033-3.npy,D:\Cilia Data\first_frames\1033-3.png,320x240,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1034-3.npy,D:\Cilia Data\converted_masks\full\1034-3.npy,D:\Cilia Data\first_frames\1034-3.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1034-9.npy,D:\Cilia Data\converted_masks\full\1034-9.npy,D:\Cilia Data\first_frames\1034-9.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1035-3.npy,D:\Cilia Data\converted_masks\full\1035-3.npy,D:\Cilia Data\first_frames\1035-3.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1036-6.npy,D:\Cilia Data\converted_masks\full\1036-6.npy,D:\Cilia Data\first_frames\1036-6.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1036-7.npy,D:\Cilia Data\converted_masks\full\1036-7.npy,D:\Cilia Data\first_frames\1036-7.png,512x384,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1037-5.npy,D:\Cilia Data\converted_masks\full\1037-5.npy,D:\Cilia Data\first_frames\1037-5.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1037-6.npy,D:\Cilia Data\converted_masks\full\1037-6.npy,D:\Cilia Data\first_frames\1037-6.png,512x384,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1037-7.npy,D:\Cilia Data\converted_masks\full\1037-7.npy,D:\Cilia Data\first_frames\1037-7.png,512x384,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1038-1.npy,D:\Cilia Data\converted_masks\full\1038-1.npy,D:\Cilia Data\first_frames\1038-1.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1038-10.npy,D:\Cilia Data\converted_masks\full\1038-10.npy,D:\Cilia Data\first_frames\1038-10.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1038-3.npy,D:\Cilia Data\converted_masks\full\1038-3.npy,D:\Cilia Data\first_frames\1038-3.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1038-4.npy,D:\Cilia Data\converted_masks\full\1038-4.npy,D:\Cilia Data\first_frames\1038-4.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1038-5.npy,D:\Cilia Data\converted_masks\full\1038-5.npy,D:\Cilia Data\first_frames\1038-5.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1038-6.npy,D:\Cilia Data\converted_masks\full\1038-6.npy,D:\Cilia Data\first_frames\1038-6.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1038-8.npy,D:\Cilia Data\converted_masks\full\1038-8.npy,D:\Cilia Data\first_frames\1038-8.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1038-9.npy,D:\Cilia Data\converted_masks\full\1038-9.npy,D:\Cilia Data\first_frames\1038-9.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1043-1.npy,D:\Cilia Data\converted_masks\full\1043-1.npy,D:\Cilia Data\first_frames\1043-1.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1043-11.npy,D:\Cilia Data\converted_masks\full\1043-11.npy,D:\Cilia Data\first_frames\1043-11.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1043-2.npy,D:\Cilia Data\converted_masks\full\1043-2.npy,D:\Cilia Data\first_frames\1043-2.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1043-3.npy,D:\Cilia Data\converted_masks\full\1043-3.npy,D:\Cilia Data\first_frames\1043-3.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1043-7.npy,D:\Cilia Data\converted_masks\full\1043-7.npy,D:\Cilia Data\first_frames\1043-7.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1043-8.npy,D:\Cilia Data\converted_masks\full\1043-8.npy,D:\Cilia Data\first_frames\1043-8.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1045-10.npy,D:\Cilia Data\converted_masks\full\1045-10.npy,D:\Cilia Data\first_frames\1045-10.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1045-3.npy,D:\Cilia Data\converted_masks\full\1045-3.npy,D:\Cilia Data\first_frames\1045-3.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1045-4.npy,D:\Cilia Data\converted_masks\full\1045-4.npy,D:\Cilia Data\first_frames\1045-4.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1045-7.npy,D:\Cilia Data\converted_masks\full\1045-7.npy,D:\Cilia Data\first_frames\1045-7.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1045-8.npy,D:\Cilia Data\converted_masks\full\1045-8.npy,D:\Cilia Data\first_frames\1045-8.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1053-1.npy,D:\Cilia Data\converted_masks\full\1053-1.npy,D:\Cilia Data\first_frames\1053-1.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1053-4.npy,D:\Cilia Data\converted_masks\full\1053-4.npy,D:\Cilia Data\first_frames\1053-4.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1053-6.npy,D:\Cilia Data\converted_masks\full\1053-6.npy,D:\Cilia Data\first_frames\1053-6.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1055-1.npy,D:\Cilia Data\converted_masks\full\1055-1.npy,D:\Cilia Data\first_frames\1055-1.png,640x480,normal,True,False,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1055-2.npy,D:\Cilia Data\converted_masks\full\1055-2.npy,D:\Cilia Data\first_frames\1055-2.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1055-3.npy,D:\Cilia Data\converted_masks\full\1055-3.npy,D:\Cilia Data\first_frames\1055-3.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\1055-6.npy,D:\Cilia Data\converted_masks\full\1055-6.npy,D:\Cilia Data\first_frames\1055-6.png,640x480,normal,True,True,nasal epithelial biopsy of normal motile cilia
+D:\Cilia Data\converted_masks\cilia\6019-10.npy,D:\Cilia Data\converted_masks\full\6019-10.npy,D:\Cilia Data\first_frames\6019-10.png,640x480,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\6019-13.npy,D:\Cilia Data\converted_masks\full\6019-13.npy,D:\Cilia Data\first_frames\6019-13.png,640x480,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\6019-16.npy,D:\Cilia Data\converted_masks\full\6019-16.npy,D:\Cilia Data\first_frames\6019-16.png,640x480,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\7016-1.npy,D:\Cilia Data\converted_masks\full\7016-1.npy,D:\Cilia Data\first_frames\7016-1.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7016-1a.npy,D:\Cilia Data\converted_masks\full\7016-1a.npy,D:\Cilia Data\first_frames\7016-1a.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7016-2.npy,D:\Cilia Data\converted_masks\full\7016-2.npy,D:\Cilia Data\first_frames\7016-2.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7016-3.npy,D:\Cilia Data\converted_masks\full\7016-3.npy,D:\Cilia Data\first_frames\7016-3.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7016-4.npy,D:\Cilia Data\converted_masks\full\7016-4.npy,D:\Cilia Data\first_frames\7016-4.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7016-5.npy,D:\Cilia Data\converted_masks\full\7016-5.npy,D:\Cilia Data\first_frames\7016-5.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7016-6.npy,D:\Cilia Data\converted_masks\full\7016-6.npy,D:\Cilia Data\first_frames\7016-6.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7016-7.npy,D:\Cilia Data\converted_masks\full\7016-7.npy,D:\Cilia Data\first_frames\7016-7.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7019-12.npy,D:\Cilia Data\converted_masks\full\7019-12.npy,D:\Cilia Data\first_frames\7019-12.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7019-13.npy,D:\Cilia Data\converted_masks\full\7019-13.npy,D:\Cilia Data\first_frames\7019-13.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7019-14.npy,D:\Cilia Data\converted_masks\full\7019-14.npy,D:\Cilia Data\first_frames\7019-14.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7019-16.npy,D:\Cilia Data\converted_masks\full\7019-16.npy,D:\Cilia Data\first_frames\7019-16.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7019-17.npy,D:\Cilia Data\converted_masks\full\7019-17.npy,D:\Cilia Data\first_frames\7019-17.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7019-2.npy,D:\Cilia Data\converted_masks\full\7019-2.npy,D:\Cilia Data\first_frames\7019-2.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7019-20.npy,D:\Cilia Data\converted_masks\full\7019-20.npy,D:\Cilia Data\first_frames\7019-20.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7019-3.npy,D:\Cilia Data\converted_masks\full\7019-3.npy,D:\Cilia Data\first_frames\7019-3.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7019-6.npy,D:\Cilia Data\converted_masks\full\7019-6.npy,D:\Cilia Data\first_frames\7019-6.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7019-8.npy,D:\Cilia Data\converted_masks\full\7019-8.npy,D:\Cilia Data\first_frames\7019-8.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7027-1.npy,D:\Cilia Data\converted_masks\full\7027-1.npy,D:\Cilia Data\first_frames\7027-1.png,640x256,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7027-12.npy,D:\Cilia Data\converted_masks\full\7027-12.npy,D:\Cilia Data\first_frames\7027-12.png,640x256,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7027-16.npy,D:\Cilia Data\converted_masks\full\7027-16.npy,D:\Cilia Data\first_frames\7027-16.png,640x256,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7027-21.npy,D:\Cilia Data\converted_masks\full\7027-21.npy,D:\Cilia Data\first_frames\7027-21.png,640x256,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7027-4.npy,D:\Cilia Data\converted_masks\full\7027-4.npy,D:\Cilia Data\first_frames\7027-4.png,640x256,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7027-5.npy,D:\Cilia Data\converted_masks\full\7027-5.npy,D:\Cilia Data\first_frames\7027-5.png,640x256,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7027-6.npy,D:\Cilia Data\converted_masks\full\7027-6.npy,D:\Cilia Data\first_frames\7027-6.png,640x256,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7027-7.npy,D:\Cilia Data\converted_masks\full\7027-7.npy,D:\Cilia Data\first_frames\7027-7.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7050-1.npy,D:\Cilia Data\converted_masks\full\7050-1.npy,D:\Cilia Data\first_frames\7050-1.png,640x480,abnormal,False,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7050-2.npy,D:\Cilia Data\converted_masks\full\7050-2.npy,D:\Cilia Data\first_frames\7050-2.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7050-3.npy,D:\Cilia Data\converted_masks\full\7050-3.npy,D:\Cilia Data\first_frames\7050-3.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7050-4.npy,D:\Cilia Data\converted_masks\full\7050-4.npy,D:\Cilia Data\first_frames\7050-4.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7050-5.npy,D:\Cilia Data\converted_masks\full\7050-5.npy,D:\Cilia Data\first_frames\7050-5.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7050-6.npy,D:\Cilia Data\converted_masks\full\7050-6.npy,D:\Cilia Data\first_frames\7050-6.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7050-7.npy,D:\Cilia Data\converted_masks\full\7050-7.npy,D:\Cilia Data\first_frames\7050-7.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7051-2.npy,D:\Cilia Data\converted_masks\full\7051-2.npy,D:\Cilia Data\first_frames\7051-2.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7051-3.npy,D:\Cilia Data\converted_masks\full\7051-3.npy,D:\Cilia Data\first_frames\7051-3.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7051-4.npy,D:\Cilia Data\converted_masks\full\7051-4.npy,D:\Cilia Data\first_frames\7051-4.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7051-5.npy,D:\Cilia Data\converted_masks\full\7051-5.npy,D:\Cilia Data\first_frames\7051-5.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7069-6.npy,D:\Cilia Data\converted_masks\full\7069-6.npy,D:\Cilia Data\first_frames\7069-6.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7096-10.npy,D:\Cilia Data\converted_masks\full\7096-10.npy,D:\Cilia Data\first_frames\7096-10.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7096-5.npy,D:\Cilia Data\converted_masks\full\7096-5.npy,D:\Cilia Data\first_frames\7096-5.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7096-7.npy,D:\Cilia Data\converted_masks\full\7096-7.npy,D:\Cilia Data\first_frames\7096-7.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7101-10.npy,D:\Cilia Data\converted_masks\full\7101-10.npy,D:\Cilia Data\first_frames\7101-10.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7101-13.npy,D:\Cilia Data\converted_masks\full\7101-13.npy,D:\Cilia Data\first_frames\7101-13.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7101-14.npy,D:\Cilia Data\converted_masks\full\7101-14.npy,D:\Cilia Data\first_frames\7101-14.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7127-16.npy,D:\Cilia Data\converted_masks\full\7127-16.npy,D:\Cilia Data\first_frames\7127-16.png,512x384,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7127-17.npy,D:\Cilia Data\converted_masks\full\7127-17.npy,D:\Cilia Data\first_frames\7127-17.png,512x384,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7132-13.npy,D:\Cilia Data\converted_masks\full\7132-13.npy,D:\Cilia Data\first_frames\7132-13.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7132-18.npy,D:\Cilia Data\converted_masks\full\7132-18.npy,D:\Cilia Data\first_frames\7132-18.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7132-20.npy,D:\Cilia Data\converted_masks\full\7132-20.npy,D:\Cilia Data\first_frames\7132-20.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7132-3.npy,D:\Cilia Data\converted_masks\full\7132-3.npy,D:\Cilia Data\first_frames\7132-3.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7152-13.npy,D:\Cilia Data\converted_masks\full\7152-13.npy,D:\Cilia Data\first_frames\7152-13.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7160-10.npy,D:\Cilia Data\converted_masks\full\7160-10.npy,D:\Cilia Data\first_frames\7160-10.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7160-3.npy,D:\Cilia Data\converted_masks\full\7160-3.npy,D:\Cilia Data\first_frames\7160-3.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7160-5.npy,D:\Cilia Data\converted_masks\full\7160-5.npy,D:\Cilia Data\first_frames\7160-5.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7160-6.npy,D:\Cilia Data\converted_masks\full\7160-6.npy,D:\Cilia Data\first_frames\7160-6.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7208-11.npy,D:\Cilia Data\converted_masks\full\7208-11.npy,D:\Cilia Data\first_frames\7208-11.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7208-12.npy,D:\Cilia Data\converted_masks\full\7208-12.npy,D:\Cilia Data\first_frames\7208-12.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7208-15.npy,D:\Cilia Data\converted_masks\full\7208-15.npy,D:\Cilia Data\first_frames\7208-15.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7208-8.npy,D:\Cilia Data\converted_masks\full\7208-8.npy,D:\Cilia Data\first_frames\7208-8.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7235-12.npy,D:\Cilia Data\converted_masks\full\7235-12.npy,D:\Cilia Data\first_frames\7235-12.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7235-3.npy,D:\Cilia Data\converted_masks\full\7235-3.npy,D:\Cilia Data\first_frames\7235-3.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7235-7.npy,D:\Cilia Data\converted_masks\full\7235-7.npy,D:\Cilia Data\first_frames\7235-7.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7241-12.npy,D:\Cilia Data\converted_masks\full\7241-12.npy,D:\Cilia Data\first_frames\7241-12.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7241-6.npy,D:\Cilia Data\converted_masks\full\7241-6.npy,D:\Cilia Data\first_frames\7241-6.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7241-8.npy,D:\Cilia Data\converted_masks\full\7241-8.npy,D:\Cilia Data\first_frames\7241-8.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7246-1.npy,D:\Cilia Data\converted_masks\full\7246-1.npy,D:\Cilia Data\first_frames\7246-1.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7246-12.npy,D:\Cilia Data\converted_masks\full\7246-12.npy,D:\Cilia Data\first_frames\7246-12.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7246-2.npy,D:\Cilia Data\converted_masks\full\7246-2.npy,D:\Cilia Data\first_frames\7246-2.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7246-4.npy,D:\Cilia Data\converted_masks\full\7246-4.npy,D:\Cilia Data\first_frames\7246-4.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7246-5.npy,D:\Cilia Data\converted_masks\full\7246-5.npy,D:\Cilia Data\first_frames\7246-5.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7246-7.npy,D:\Cilia Data\converted_masks\full\7246-7.npy,D:\Cilia Data\first_frames\7246-7.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7246-8.npy,D:\Cilia Data\converted_masks\full\7246-8.npy,D:\Cilia Data\first_frames\7246-8.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7246-9.npy,D:\Cilia Data\converted_masks\full\7246-9.npy,D:\Cilia Data\first_frames\7246-9.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7254-12.npy,D:\Cilia Data\converted_masks\full\7254-12.npy,D:\Cilia Data\first_frames\7254-12.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7254-3.npy,D:\Cilia Data\converted_masks\full\7254-3.npy,D:\Cilia Data\first_frames\7254-3.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7254-5.npy,D:\Cilia Data\converted_masks\full\7254-5.npy,D:\Cilia Data\first_frames\7254-5.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7254-7.npy,D:\Cilia Data\converted_masks\full\7254-7.npy,D:\Cilia Data\first_frames\7254-7.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7254-8.npy,D:\Cilia Data\converted_masks\full\7254-8.npy,D:\Cilia Data\first_frames\7254-8.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7261-10.npy,D:\Cilia Data\converted_masks\full\7261-10.npy,D:\Cilia Data\first_frames\7261-10.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7269-2.npy,D:\Cilia Data\converted_masks\full\7269-2.npy,D:\Cilia Data\first_frames\7269-2.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7280-11.npy,D:\Cilia Data\converted_masks\full\7280-11.npy,D:\Cilia Data\first_frames\7280-11.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7280-12.npy,D:\Cilia Data\converted_masks\full\7280-12.npy,D:\Cilia Data\first_frames\7280-12.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7280-4.npy,D:\Cilia Data\converted_masks\full\7280-4.npy,D:\Cilia Data\first_frames\7280-4.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7280-7.npy,D:\Cilia Data\converted_masks\full\7280-7.npy,D:\Cilia Data\first_frames\7280-7.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7280-8.npy,D:\Cilia Data\converted_masks\full\7280-8.npy,D:\Cilia Data\first_frames\7280-8.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7281-5.npy,D:\Cilia Data\converted_masks\full\7281-5.npy,D:\Cilia Data\first_frames\7281-5.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7281-6.npy,D:\Cilia Data\converted_masks\full\7281-6.npy,D:\Cilia Data\first_frames\7281-6.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7281-7.npy,D:\Cilia Data\converted_masks\full\7281-7.npy,D:\Cilia Data\first_frames\7281-7.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7286-1.npy,D:\Cilia Data\converted_masks\full\7286-1.npy,D:\Cilia Data\first_frames\7286-1.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7286-3.npy,D:\Cilia Data\converted_masks\full\7286-3.npy,D:\Cilia Data\first_frames\7286-3.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7286-5.npy,D:\Cilia Data\converted_masks\full\7286-5.npy,D:\Cilia Data\first_frames\7286-5.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7286-9.npy,D:\Cilia Data\converted_masks\full\7286-9.npy,D:\Cilia Data\first_frames\7286-9.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7287-1.npy,D:\Cilia Data\converted_masks\full\7287-1.npy,D:\Cilia Data\first_frames\7287-1.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7287-7.npy,D:\Cilia Data\converted_masks\full\7287-7.npy,D:\Cilia Data\first_frames\7287-7.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7287-9.npy,D:\Cilia Data\converted_masks\full\7287-9.npy,D:\Cilia Data\first_frames\7287-9.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7318-1.npy,D:\Cilia Data\converted_masks\full\7318-1.npy,D:\Cilia Data\first_frames\7318-1.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7318-10.npy,D:\Cilia Data\converted_masks\full\7318-10.npy,D:\Cilia Data\first_frames\7318-10.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7318-11.npy,D:\Cilia Data\converted_masks\full\7318-11.npy,D:\Cilia Data\first_frames\7318-11.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7318-12.npy,D:\Cilia Data\converted_masks\full\7318-12.npy,D:\Cilia Data\first_frames\7318-12.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7318-2.npy,D:\Cilia Data\converted_masks\full\7318-2.npy,D:\Cilia Data\first_frames\7318-2.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7318-3.npy,D:\Cilia Data\converted_masks\full\7318-3.npy,D:\Cilia Data\first_frames\7318-3.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7318-4.npy,D:\Cilia Data\converted_masks\full\7318-4.npy,D:\Cilia Data\first_frames\7318-4.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7318-5.npy,D:\Cilia Data\converted_masks\full\7318-5.npy,D:\Cilia Data\first_frames\7318-5.png,640x480,abnormal,True,False,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7318-6.npy,D:\Cilia Data\converted_masks\full\7318-6.npy,D:\Cilia Data\first_frames\7318-6.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\7318-7.npy,D:\Cilia Data\converted_masks\full\7318-7.npy,D:\Cilia Data\first_frames\7318-7.png,640x480,abnormal,True,True,nasal epithelial biopsy of dyskinetic immotile cilia
+D:\Cilia Data\converted_masks\cilia\9003-1a200.npy,D:\Cilia Data\converted_masks\full\9003-1a200.npy,D:\Cilia Data\first_frames\9003-1a200.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9003-1b200.npy,D:\Cilia Data\converted_masks\full\9003-1b200.npy,D:\Cilia Data\first_frames\9003-1b200.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9003-1c200.npy,D:\Cilia Data\converted_masks\full\9003-1c200.npy,D:\Cilia Data\first_frames\9003-1c200.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9003-1d200.npy,D:\Cilia Data\converted_masks\full\9003-1d200.npy,D:\Cilia Data\first_frames\9003-1d200.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9013b.npy,D:\Cilia Data\converted_masks\full\9013b.npy,D:\Cilia Data\first_frames\9013b.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9013f.npy,D:\Cilia Data\converted_masks\full\9013f.npy,D:\Cilia Data\first_frames\9013f.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9013g.npy,D:\Cilia Data\converted_masks\full\9013g.npy,D:\Cilia Data\first_frames\9013g.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9013h.npy,D:\Cilia Data\converted_masks\full\9013h.npy,D:\Cilia Data\first_frames\9013h.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9013j.npy,D:\Cilia Data\converted_masks\full\9013j.npy,D:\Cilia Data\first_frames\9013j.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9013k.npy,D:\Cilia Data\converted_masks\full\9013k.npy,D:\Cilia Data\first_frames\9013k.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9013l.npy,D:\Cilia Data\converted_masks\full\9013l.npy,D:\Cilia Data\first_frames\9013l.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9013s.npy,D:\Cilia Data\converted_masks\full\9013s.npy,D:\Cilia Data\first_frames\9013s.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9013u.npy,D:\Cilia Data\converted_masks\full\9013u.npy,D:\Cilia Data\first_frames\9013u.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9013y.npy,D:\Cilia Data\converted_masks\full\9013y.npy,D:\Cilia Data\first_frames\9013y.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\901910.npy,D:\Cilia Data\converted_masks\full\901910.npy,D:\Cilia Data\first_frames\901910.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\901912.npy,D:\Cilia Data\converted_masks\full\901912.npy,D:\Cilia Data\first_frames\901912.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90192.npy,D:\Cilia Data\converted_masks\full\90192.npy,D:\Cilia Data\first_frames\90192.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90193.npy,D:\Cilia Data\converted_masks\full\90193.npy,D:\Cilia Data\first_frames\90193.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90197.npy,D:\Cilia Data\converted_masks\full\90197.npy,D:\Cilia Data\first_frames\90197.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90198.npy,D:\Cilia Data\converted_masks\full\90198.npy,D:\Cilia Data\first_frames\90198.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90201a.npy,D:\Cilia Data\converted_masks\full\90201a.npy,D:\Cilia Data\first_frames\90201a.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90201b.npy,D:\Cilia Data\converted_masks\full\90201b.npy,D:\Cilia Data\first_frames\90201b.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90201c.npy,D:\Cilia Data\converted_masks\full\90201c.npy,D:\Cilia Data\first_frames\90201c.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90201e.npy,D:\Cilia Data\converted_masks\full\90201e.npy,D:\Cilia Data\first_frames\90201e.png,256x256,indeterminate,False,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90201f.npy,D:\Cilia Data\converted_masks\full\90201f.npy,D:\Cilia Data\first_frames\90201f.png,256x256,indeterminate,False,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90201i.npy,D:\Cilia Data\converted_masks\full\90201i.npy,D:\Cilia Data\first_frames\90201i.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90201k.npy,D:\Cilia Data\converted_masks\full\90201k.npy,D:\Cilia Data\first_frames\90201k.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90221.npy,D:\Cilia Data\converted_masks\full\90221.npy,D:\Cilia Data\first_frames\90221.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90222.npy,D:\Cilia Data\converted_masks\full\90222.npy,D:\Cilia Data\first_frames\90222.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90226.npy,D:\Cilia Data\converted_masks\full\90226.npy,D:\Cilia Data\first_frames\90226.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90231.npy,D:\Cilia Data\converted_masks\full\90231.npy,D:\Cilia Data\first_frames\90231.png,512x512,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90232.npy,D:\Cilia Data\converted_masks\full\90232.npy,D:\Cilia Data\first_frames\90232.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90234.npy,D:\Cilia Data\converted_masks\full\90234.npy,D:\Cilia Data\first_frames\90234.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90235.npy,D:\Cilia Data\converted_masks\full\90235.npy,D:\Cilia Data\first_frames\90235.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90242.npy,D:\Cilia Data\converted_masks\full\90242.npy,D:\Cilia Data\first_frames\90242.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90243.npy,D:\Cilia Data\converted_masks\full\90243.npy,D:\Cilia Data\first_frames\90243.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90244.npy,D:\Cilia Data\converted_masks\full\90244.npy,D:\Cilia Data\first_frames\90244.png,256x384,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90249.npy,D:\Cilia Data\converted_masks\full\90249.npy,D:\Cilia Data\first_frames\90249.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90251.npy,D:\Cilia Data\converted_masks\full\90251.npy,D:\Cilia Data\first_frames\90251.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90253.npy,D:\Cilia Data\converted_masks\full\90253.npy,D:\Cilia Data\first_frames\90253.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90254.npy,D:\Cilia Data\converted_masks\full\90254.npy,D:\Cilia Data\first_frames\90254.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\902541o5x.npy,D:\Cilia Data\converted_masks\full\902541o5x.npy,D:\Cilia Data\first_frames\902541o5x.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90256.npy,D:\Cilia Data\converted_masks\full\90256.npy,D:\Cilia Data\first_frames\90256.png,512x384,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\902571o5x.npy,D:\Cilia Data\converted_masks\full\902571o5x.npy,D:\Cilia Data\first_frames\902571o5x.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90262.npy,D:\Cilia Data\converted_masks\full\90262.npy,D:\Cilia Data\first_frames\90262.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90263.npy,D:\Cilia Data\converted_masks\full\90263.npy,D:\Cilia Data\first_frames\90263.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90265.npy,D:\Cilia Data\converted_masks\full\90265.npy,D:\Cilia Data\first_frames\90265.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\902671o5x.npy,D:\Cilia Data\converted_masks\full\902671o5x.npy,D:\Cilia Data\first_frames\902671o5x.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90268.npy,D:\Cilia Data\converted_masks\full\90268.npy,D:\Cilia Data\first_frames\90268.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90271.npy,D:\Cilia Data\converted_masks\full\90271.npy,D:\Cilia Data\first_frames\90271.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90272.npy,D:\Cilia Data\converted_masks\full\90272.npy,D:\Cilia Data\first_frames\90272.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9028-1.npy,D:\Cilia Data\converted_masks\full\9028-1.npy,D:\Cilia Data\first_frames\9028-1.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9028-2.npy,D:\Cilia Data\converted_masks\full\9028-2.npy,D:\Cilia Data\first_frames\9028-2.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9028-3.npy,D:\Cilia Data\converted_masks\full\9028-3.npy,D:\Cilia Data\first_frames\9028-3.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9028-4.npy,D:\Cilia Data\converted_masks\full\9028-4.npy,D:\Cilia Data\first_frames\9028-4.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9028-6.npy,D:\Cilia Data\converted_masks\full\9028-6.npy,D:\Cilia Data\first_frames\9028-6.png,256x384,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9028-7.npy,D:\Cilia Data\converted_masks\full\9028-7.npy,D:\Cilia Data\first_frames\9028-7.png,256x384,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90281.npy,D:\Cilia Data\converted_masks\full\90281.npy,D:\Cilia Data\first_frames\90281.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90282.npy,D:\Cilia Data\converted_masks\full\90282.npy,D:\Cilia Data\first_frames\90282.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90286.npy,D:\Cilia Data\converted_masks\full\90286.npy,D:\Cilia Data\first_frames\90286.png,256x384,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90287.npy,D:\Cilia Data\converted_masks\full\90287.npy,D:\Cilia Data\first_frames\90287.png,256x384,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90291a.npy,D:\Cilia Data\converted_masks\full\90291a.npy,D:\Cilia Data\first_frames\90291a.png,512x512,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90291c.npy,D:\Cilia Data\converted_masks\full\90291c.npy,D:\Cilia Data\first_frames\90291c.png,384x384,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90291f.npy,D:\Cilia Data\converted_masks\full\90291f.npy,D:\Cilia Data\first_frames\90291f.png,384x384,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90291g.npy,D:\Cilia Data\converted_masks\full\90291g.npy,D:\Cilia Data\first_frames\90291g.png,384x384,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\903113.npy,D:\Cilia Data\converted_masks\full\903113.npy,D:\Cilia Data\first_frames\903113.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\903117.npy,D:\Cilia Data\converted_masks\full\903117.npy,D:\Cilia Data\first_frames\903117.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9031191o5x.npy,D:\Cilia Data\converted_masks\full\9031191o5x.npy,D:\Cilia Data\first_frames\9031191o5x.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9031201o5x.npy,D:\Cilia Data\converted_masks\full\9031201o5x.npy,D:\Cilia Data\first_frames\9031201o5x.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90314.npy,D:\Cilia Data\converted_masks\full\90314.npy,D:\Cilia Data\first_frames\90314.png,512x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90315.npy,D:\Cilia Data\converted_masks\full\90315.npy,D:\Cilia Data\first_frames\90315.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90322.npy,D:\Cilia Data\converted_masks\full\90322.npy,D:\Cilia Data\first_frames\90322.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90324.npy,D:\Cilia Data\converted_masks\full\90324.npy,D:\Cilia Data\first_frames\90324.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90325.npy,D:\Cilia Data\converted_masks\full\90325.npy,D:\Cilia Data\first_frames\90325.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\903311.npy,D:\Cilia Data\converted_masks\full\903311.npy,D:\Cilia Data\first_frames\903311.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90332.npy,D:\Cilia Data\converted_masks\full\90332.npy,D:\Cilia Data\first_frames\90332.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90333.npy,D:\Cilia Data\converted_masks\full\90333.npy,D:\Cilia Data\first_frames\90333.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90334.npy,D:\Cilia Data\converted_masks\full\90334.npy,D:\Cilia Data\first_frames\90334.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90338.npy,D:\Cilia Data\converted_masks\full\90338.npy,D:\Cilia Data\first_frames\90338.png,256x512,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90339.npy,D:\Cilia Data\converted_masks\full\90339.npy,D:\Cilia Data\first_frames\90339.png,256x512,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90341.npy,D:\Cilia Data\converted_masks\full\90341.npy,D:\Cilia Data\first_frames\90341.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90346.npy,D:\Cilia Data\converted_masks\full\90346.npy,D:\Cilia Data\first_frames\90346.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90347.npy,D:\Cilia Data\converted_masks\full\90347.npy,D:\Cilia Data\first_frames\90347.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90348.npy,D:\Cilia Data\converted_masks\full\90348.npy,D:\Cilia Data\first_frames\90348.png,512x128,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90349.npy,D:\Cilia Data\converted_masks\full\90349.npy,D:\Cilia Data\first_frames\90349.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\903511.npy,D:\Cilia Data\converted_masks\full\903511.npy,D:\Cilia Data\first_frames\903511.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\903513.npy,D:\Cilia Data\converted_masks\full\903513.npy,D:\Cilia Data\first_frames\903513.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\903514.npy,D:\Cilia Data\converted_masks\full\903514.npy,D:\Cilia Data\first_frames\903514.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90353.npy,D:\Cilia Data\converted_masks\full\90353.npy,D:\Cilia Data\first_frames\90353.png,512x384,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90355.npy,D:\Cilia Data\converted_masks\full\90355.npy,D:\Cilia Data\first_frames\90355.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90361.npy,D:\Cilia Data\converted_masks\full\90361.npy,D:\Cilia Data\first_frames\90361.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\903612.npy,D:\Cilia Data\converted_masks\full\903612.npy,D:\Cilia Data\first_frames\903612.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\903614.npy,D:\Cilia Data\converted_masks\full\903614.npy,D:\Cilia Data\first_frames\903614.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90365.npy,D:\Cilia Data\converted_masks\full\90365.npy,D:\Cilia Data\first_frames\90365.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90367.npy,D:\Cilia Data\converted_masks\full\90367.npy,D:\Cilia Data\first_frames\90367.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90372.npy,D:\Cilia Data\converted_masks\full\90372.npy,D:\Cilia Data\first_frames\90372.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90373.npy,D:\Cilia Data\converted_masks\full\90373.npy,D:\Cilia Data\first_frames\90373.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90374.npy,D:\Cilia Data\converted_masks\full\90374.npy,D:\Cilia Data\first_frames\90374.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90382.npy,D:\Cilia Data\converted_masks\full\90382.npy,D:\Cilia Data\first_frames\90382.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90384.npy,D:\Cilia Data\converted_masks\full\90384.npy,D:\Cilia Data\first_frames\90384.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90385.npy,D:\Cilia Data\converted_masks\full\90385.npy,D:\Cilia Data\first_frames\90385.png,256x512,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\90386.npy,D:\Cilia Data\converted_masks\full\90386.npy,D:\Cilia Data\first_frames\90386.png,256x512,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9042d.npy,D:\Cilia Data\converted_masks\full\9042d.npy,D:\Cilia Data\first_frames\9042d.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9042f.npy,D:\Cilia Data\converted_masks\full\9042f.npy,D:\Cilia Data\first_frames\9042f.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9042h.npy,D:\Cilia Data\converted_masks\full\9042h.npy,D:\Cilia Data\first_frames\9042h.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9043e.npy,D:\Cilia Data\converted_masks\full\9043e.npy,D:\Cilia Data\first_frames\9043e.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9043f.npy,D:\Cilia Data\converted_masks\full\9043f.npy,D:\Cilia Data\first_frames\9043f.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9043i.npy,D:\Cilia Data\converted_masks\full\9043i.npy,D:\Cilia Data\first_frames\9043i.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9043k.npy,D:\Cilia Data\converted_masks\full\9043k.npy,D:\Cilia Data\first_frames\9043k.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9044c.npy,D:\Cilia Data\converted_masks\full\9044c.npy,D:\Cilia Data\first_frames\9044c.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9044e.npy,D:\Cilia Data\converted_masks\full\9044e.npy,D:\Cilia Data\first_frames\9044e.png,256x512,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9044f.npy,D:\Cilia Data\converted_masks\full\9044f.npy,D:\Cilia Data\first_frames\9044f.png,256x128,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9044g.npy,D:\Cilia Data\converted_masks\full\9044g.npy,D:\Cilia Data\first_frames\9044g.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9044h.npy,D:\Cilia Data\converted_masks\full\9044h.npy,D:\Cilia Data\first_frames\9044h.png,128x128,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9045f.npy,D:\Cilia Data\converted_masks\full\9045f.npy,D:\Cilia Data\first_frames\9045f.png,256x128,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9045h.npy,D:\Cilia Data\converted_masks\full\9045h.npy,D:\Cilia Data\first_frames\9045h.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9045i.npy,D:\Cilia Data\converted_masks\full\9045i.npy,D:\Cilia Data\first_frames\9045i.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9045k.npy,D:\Cilia Data\converted_masks\full\9045k.npy,D:\Cilia Data\first_frames\9045k.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9048a.npy,D:\Cilia Data\converted_masks\full\9048a.npy,D:\Cilia Data\first_frames\9048a.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9048d.npy,D:\Cilia Data\converted_masks\full\9048d.npy,D:\Cilia Data\first_frames\9048d.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9048g.npy,D:\Cilia Data\converted_masks\full\9048g.npy,D:\Cilia Data\first_frames\9048g.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9048j.npy,D:\Cilia Data\converted_masks\full\9048j.npy,D:\Cilia Data\first_frames\9048j.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9049d.npy,D:\Cilia Data\converted_masks\full\9049d.npy,D:\Cilia Data\first_frames\9049d.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9049j.npy,D:\Cilia Data\converted_masks\full\9049j.npy,D:\Cilia Data\first_frames\9049j.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9049m.npy,D:\Cilia Data\converted_masks\full\9049m.npy,D:\Cilia Data\first_frames\9049m.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9049n.npy,D:\Cilia Data\converted_masks\full\9049n.npy,D:\Cilia Data\first_frames\9049n.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9049p.npy,D:\Cilia Data\converted_masks\full\9049p.npy,D:\Cilia Data\first_frames\9049p.png,512x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9049q.npy,D:\Cilia Data\converted_masks\full\9049q.npy,D:\Cilia Data\first_frames\9049q.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9049s.npy,D:\Cilia Data\converted_masks\full\9049s.npy,D:\Cilia Data\first_frames\9049s.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9049t.npy,D:\Cilia Data\converted_masks\full\9049t.npy,D:\Cilia Data\first_frames\9049t.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9050c1.npy,D:\Cilia Data\converted_masks\full\9050c1.npy,D:\Cilia Data\first_frames\9050c1.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9050d1.npy,D:\Cilia Data\converted_masks\full\9050d1.npy,D:\Cilia Data\first_frames\9050d1.png,512x512,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9050l.npy,D:\Cilia Data\converted_masks\full\9050l.npy,D:\Cilia Data\first_frames\9050l.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9050n.npy,D:\Cilia Data\converted_masks\full\9050n.npy,D:\Cilia Data\first_frames\9050n.png,256x256,indeterminate,False,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9050p.npy,D:\Cilia Data\converted_masks\full\9050p.npy,D:\Cilia Data\first_frames\9050p.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9050q.npy,D:\Cilia Data\converted_masks\full\9050q.npy,D:\Cilia Data\first_frames\9050q.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9051a.npy,D:\Cilia Data\converted_masks\full\9051a.npy,D:\Cilia Data\first_frames\9051a.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9051b.npy,D:\Cilia Data\converted_masks\full\9051b.npy,D:\Cilia Data\first_frames\9051b.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9051e.npy,D:\Cilia Data\converted_masks\full\9051e.npy,D:\Cilia Data\first_frames\9051e.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9051g.npy,D:\Cilia Data\converted_masks\full\9051g.npy,D:\Cilia Data\first_frames\9051g.png,256x256,indeterminate,True,True,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9051j.npy,D:\Cilia Data\converted_masks\full\9051j.npy,D:\Cilia Data\first_frames\9051j.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9051m.npy,D:\Cilia Data\converted_masks\full\9051m.npy,D:\Cilia Data\first_frames\9051m.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9051s.npy,D:\Cilia Data\converted_masks\full\9051s.npy,D:\Cilia Data\first_frames\9051s.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9051t.npy,D:\Cilia Data\converted_masks\full\9051t.npy,D:\Cilia Data\first_frames\9051t.png,256x256,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\9051w.npy,D:\Cilia Data\converted_masks\full\9051w.npy,D:\Cilia Data\first_frames\9051w.png,512x512,indeterminate,True,False,nasal epithelial biopsy with cilia
+D:\Cilia Data\converted_masks\cilia\1001-1.npy,D:\Cilia Data\converted_masks\full\1001-1.npy,D:\Cilia Data\first_frames\1001-1.png,640x480,normal,False,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1001-13.npy,D:\Cilia Data\converted_masks\full\1001-13.npy,D:\Cilia Data\first_frames\1001-13.png,512x384,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1001-2.npy,D:\Cilia Data\converted_masks\full\1001-2.npy,D:\Cilia Data\first_frames\1001-2.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1001-3.npy,D:\Cilia Data\converted_masks\full\1001-3.npy,D:\Cilia Data\first_frames\1001-3.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1001-5.npy,D:\Cilia Data\converted_masks\full\1001-5.npy,D:\Cilia Data\first_frames\1001-5.png,512x384,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1001-6.npy,D:\Cilia Data\converted_masks\full\1001-6.npy,D:\Cilia Data\first_frames\1001-6.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1001-8.npy,D:\Cilia Data\converted_masks\full\1001-8.npy,D:\Cilia Data\first_frames\1001-8.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1002-1.npy,D:\Cilia Data\converted_masks\full\1002-1.npy,D:\Cilia Data\first_frames\1002-1.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1003-1.npy,D:\Cilia Data\converted_masks\full\1003-1.npy,D:\Cilia Data\first_frames\1003-1.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1003-10.npy,D:\Cilia Data\converted_masks\full\1003-10.npy,D:\Cilia Data\first_frames\1003-10.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1003-2.npy,D:\Cilia Data\converted_masks\full\1003-2.npy,D:\Cilia Data\first_frames\1003-2.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1003-7.npy,D:\Cilia Data\converted_masks\full\1003-7.npy,D:\Cilia Data\first_frames\1003-7.png,640x480,normal,False,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1003-8.npy,D:\Cilia Data\converted_masks\full\1003-8.npy,D:\Cilia Data\first_frames\1003-8.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1004-3.npy,D:\Cilia Data\converted_masks\full\1004-3.npy,D:\Cilia Data\first_frames\1004-3.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1006-6.npy,D:\Cilia Data\converted_masks\full\1006-6.npy,D:\Cilia Data\first_frames\1006-6.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1006-7.npy,D:\Cilia Data\converted_masks\full\1006-7.npy,D:\Cilia Data\first_frames\1006-7.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1011-3.npy,D:\Cilia Data\converted_masks\full\1011-3.npy,D:\Cilia Data\first_frames\1011-3.png,640x256,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1011-4.npy,D:\Cilia Data\converted_masks\full\1011-4.npy,D:\Cilia Data\first_frames\1011-4.png,640x480,normal,False,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1011-5.npy,D:\Cilia Data\converted_masks\full\1011-5.npy,D:\Cilia Data\first_frames\1011-5.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1013-2.npy,D:\Cilia Data\converted_masks\full\1013-2.npy,D:\Cilia Data\first_frames\1013-2.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1015-2.npy,D:\Cilia Data\converted_masks\full\1015-2.npy,D:\Cilia Data\first_frames\1015-2.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1015-5.npy,D:\Cilia Data\converted_masks\full\1015-5.npy,D:\Cilia Data\first_frames\1015-5.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1023-1.npy,D:\Cilia Data\converted_masks\full\1023-1.npy,D:\Cilia Data\first_frames\1023-1.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1025-5.npy,D:\Cilia Data\converted_masks\full\1025-5.npy,D:\Cilia Data\first_frames\1025-5.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1026-5.npy,D:\Cilia Data\converted_masks\full\1026-5.npy,D:\Cilia Data\first_frames\1026-5.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1027-1.npy,D:\Cilia Data\converted_masks\full\1027-1.npy,D:\Cilia Data\first_frames\1027-1.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1028-3.npy,D:\Cilia Data\converted_masks\full\1028-3.npy,D:\Cilia Data\first_frames\1028-3.png,512x384,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1028-5.npy,D:\Cilia Data\converted_masks\full\1028-5.npy,D:\Cilia Data\first_frames\1028-5.png,512x384,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1029-1.npy,D:\Cilia Data\converted_masks\full\1029-1.npy,D:\Cilia Data\first_frames\1029-1.png,320x240,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1029-7.npy,D:\Cilia Data\converted_masks\full\1029-7.npy,D:\Cilia Data\first_frames\1029-7.png,512x384,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1030-1.npy,D:\Cilia Data\converted_masks\full\1030-1.npy,D:\Cilia Data\first_frames\1030-1.png,320x240,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1030-3.npy,D:\Cilia Data\converted_masks\full\1030-3.npy,D:\Cilia Data\first_frames\1030-3.png,320x240,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1030-5.npy,D:\Cilia Data\converted_masks\full\1030-5.npy,D:\Cilia Data\first_frames\1030-5.png,320x240,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1030-6.npy,D:\Cilia Data\converted_masks\full\1030-6.npy,D:\Cilia Data\first_frames\1030-6.png,320x240,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1031-1.npy,D:\Cilia Data\converted_masks\full\1031-1.npy,D:\Cilia Data\first_frames\1031-1.png,320x240,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1031-3.npy,D:\Cilia Data\converted_masks\full\1031-3.npy,D:\Cilia Data\first_frames\1031-3.png,320x240,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1032-7.npy,D:\Cilia Data\converted_masks\full\1032-7.npy,D:\Cilia Data\first_frames\1032-7.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1033-3.npy,D:\Cilia Data\converted_masks\full\1033-3.npy,D:\Cilia Data\first_frames\1033-3.png,320x240,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1034-3.npy,D:\Cilia Data\converted_masks\full\1034-3.npy,D:\Cilia Data\first_frames\1034-3.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1034-9.npy,D:\Cilia Data\converted_masks\full\1034-9.npy,D:\Cilia Data\first_frames\1034-9.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1035-3.npy,D:\Cilia Data\converted_masks\full\1035-3.npy,D:\Cilia Data\first_frames\1035-3.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1036-6.npy,D:\Cilia Data\converted_masks\full\1036-6.npy,D:\Cilia Data\first_frames\1036-6.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1036-7.npy,D:\Cilia Data\converted_masks\full\1036-7.npy,D:\Cilia Data\first_frames\1036-7.png,512x384,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1037-5.npy,D:\Cilia Data\converted_masks\full\1037-5.npy,D:\Cilia Data\first_frames\1037-5.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1037-6.npy,D:\Cilia Data\converted_masks\full\1037-6.npy,D:\Cilia Data\first_frames\1037-6.png,512x384,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1037-7.npy,D:\Cilia Data\converted_masks\full\1037-7.npy,D:\Cilia Data\first_frames\1037-7.png,512x384,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1038-1.npy,D:\Cilia Data\converted_masks\full\1038-1.npy,D:\Cilia Data\first_frames\1038-1.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1038-10.npy,D:\Cilia Data\converted_masks\full\1038-10.npy,D:\Cilia Data\first_frames\1038-10.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1038-3.npy,D:\Cilia Data\converted_masks\full\1038-3.npy,D:\Cilia Data\first_frames\1038-3.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1038-4.npy,D:\Cilia Data\converted_masks\full\1038-4.npy,D:\Cilia Data\first_frames\1038-4.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1038-5.npy,D:\Cilia Data\converted_masks\full\1038-5.npy,D:\Cilia Data\first_frames\1038-5.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1038-6.npy,D:\Cilia Data\converted_masks\full\1038-6.npy,D:\Cilia Data\first_frames\1038-6.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1038-8.npy,D:\Cilia Data\converted_masks\full\1038-8.npy,D:\Cilia Data\first_frames\1038-8.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1038-9.npy,D:\Cilia Data\converted_masks\full\1038-9.npy,D:\Cilia Data\first_frames\1038-9.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1043-1.npy,D:\Cilia Data\converted_masks\full\1043-1.npy,D:\Cilia Data\first_frames\1043-1.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1043-11.npy,D:\Cilia Data\converted_masks\full\1043-11.npy,D:\Cilia Data\first_frames\1043-11.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1043-2.npy,D:\Cilia Data\converted_masks\full\1043-2.npy,D:\Cilia Data\first_frames\1043-2.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1043-3.npy,D:\Cilia Data\converted_masks\full\1043-3.npy,D:\Cilia Data\first_frames\1043-3.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1043-7.npy,D:\Cilia Data\converted_masks\full\1043-7.npy,D:\Cilia Data\first_frames\1043-7.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1043-8.npy,D:\Cilia Data\converted_masks\full\1043-8.npy,D:\Cilia Data\first_frames\1043-8.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1045-10.npy,D:\Cilia Data\converted_masks\full\1045-10.npy,D:\Cilia Data\first_frames\1045-10.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1045-3.npy,D:\Cilia Data\converted_masks\full\1045-3.npy,D:\Cilia Data\first_frames\1045-3.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1045-4.npy,D:\Cilia Data\converted_masks\full\1045-4.npy,D:\Cilia Data\first_frames\1045-4.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1045-7.npy,D:\Cilia Data\converted_masks\full\1045-7.npy,D:\Cilia Data\first_frames\1045-7.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1045-8.npy,D:\Cilia Data\converted_masks\full\1045-8.npy,D:\Cilia Data\first_frames\1045-8.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1053-1.npy,D:\Cilia Data\converted_masks\full\1053-1.npy,D:\Cilia Data\first_frames\1053-1.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1053-4.npy,D:\Cilia Data\converted_masks\full\1053-4.npy,D:\Cilia Data\first_frames\1053-4.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1053-6.npy,D:\Cilia Data\converted_masks\full\1053-6.npy,D:\Cilia Data\first_frames\1053-6.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1055-1.npy,D:\Cilia Data\converted_masks\full\1055-1.npy,D:\Cilia Data\first_frames\1055-1.png,640x480,normal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1055-2.npy,D:\Cilia Data\converted_masks\full\1055-2.npy,D:\Cilia Data\first_frames\1055-2.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1055-3.npy,D:\Cilia Data\converted_masks\full\1055-3.npy,D:\Cilia Data\first_frames\1055-3.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\1055-6.npy,D:\Cilia Data\converted_masks\full\1055-6.npy,D:\Cilia Data\first_frames\1055-6.png,640x480,normal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\6019-10.npy,D:\Cilia Data\converted_masks\full\6019-10.npy,D:\Cilia Data\first_frames\6019-10.png,640x480,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\6019-13.npy,D:\Cilia Data\converted_masks\full\6019-13.npy,D:\Cilia Data\first_frames\6019-13.png,640x480,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\6019-16.npy,D:\Cilia Data\converted_masks\full\6019-16.npy,D:\Cilia Data\first_frames\6019-16.png,640x480,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7016-1.npy,D:\Cilia Data\converted_masks\full\7016-1.npy,D:\Cilia Data\first_frames\7016-1.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7016-1a.npy,D:\Cilia Data\converted_masks\full\7016-1a.npy,D:\Cilia Data\first_frames\7016-1a.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7016-2.npy,D:\Cilia Data\converted_masks\full\7016-2.npy,D:\Cilia Data\first_frames\7016-2.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7016-3.npy,D:\Cilia Data\converted_masks\full\7016-3.npy,D:\Cilia Data\first_frames\7016-3.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7016-4.npy,D:\Cilia Data\converted_masks\full\7016-4.npy,D:\Cilia Data\first_frames\7016-4.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7016-5.npy,D:\Cilia Data\converted_masks\full\7016-5.npy,D:\Cilia Data\first_frames\7016-5.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7016-6.npy,D:\Cilia Data\converted_masks\full\7016-6.npy,D:\Cilia Data\first_frames\7016-6.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7016-7.npy,D:\Cilia Data\converted_masks\full\7016-7.npy,D:\Cilia Data\first_frames\7016-7.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7019-12.npy,D:\Cilia Data\converted_masks\full\7019-12.npy,D:\Cilia Data\first_frames\7019-12.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7019-13.npy,D:\Cilia Data\converted_masks\full\7019-13.npy,D:\Cilia Data\first_frames\7019-13.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7019-14.npy,D:\Cilia Data\converted_masks\full\7019-14.npy,D:\Cilia Data\first_frames\7019-14.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7019-16.npy,D:\Cilia Data\converted_masks\full\7019-16.npy,D:\Cilia Data\first_frames\7019-16.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7019-17.npy,D:\Cilia Data\converted_masks\full\7019-17.npy,D:\Cilia Data\first_frames\7019-17.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7019-2.npy,D:\Cilia Data\converted_masks\full\7019-2.npy,D:\Cilia Data\first_frames\7019-2.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7019-20.npy,D:\Cilia Data\converted_masks\full\7019-20.npy,D:\Cilia Data\first_frames\7019-20.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7019-3.npy,D:\Cilia Data\converted_masks\full\7019-3.npy,D:\Cilia Data\first_frames\7019-3.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7019-6.npy,D:\Cilia Data\converted_masks\full\7019-6.npy,D:\Cilia Data\first_frames\7019-6.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7019-8.npy,D:\Cilia Data\converted_masks\full\7019-8.npy,D:\Cilia Data\first_frames\7019-8.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7027-1.npy,D:\Cilia Data\converted_masks\full\7027-1.npy,D:\Cilia Data\first_frames\7027-1.png,640x256,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7027-12.npy,D:\Cilia Data\converted_masks\full\7027-12.npy,D:\Cilia Data\first_frames\7027-12.png,640x256,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7027-16.npy,D:\Cilia Data\converted_masks\full\7027-16.npy,D:\Cilia Data\first_frames\7027-16.png,640x256,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7027-21.npy,D:\Cilia Data\converted_masks\full\7027-21.npy,D:\Cilia Data\first_frames\7027-21.png,640x256,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7027-4.npy,D:\Cilia Data\converted_masks\full\7027-4.npy,D:\Cilia Data\first_frames\7027-4.png,640x256,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7027-5.npy,D:\Cilia Data\converted_masks\full\7027-5.npy,D:\Cilia Data\first_frames\7027-5.png,640x256,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7027-6.npy,D:\Cilia Data\converted_masks\full\7027-6.npy,D:\Cilia Data\first_frames\7027-6.png,640x256,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7027-7.npy,D:\Cilia Data\converted_masks\full\7027-7.npy,D:\Cilia Data\first_frames\7027-7.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7050-1.npy,D:\Cilia Data\converted_masks\full\7050-1.npy,D:\Cilia Data\first_frames\7050-1.png,640x480,abnormal,False,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7050-2.npy,D:\Cilia Data\converted_masks\full\7050-2.npy,D:\Cilia Data\first_frames\7050-2.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7050-3.npy,D:\Cilia Data\converted_masks\full\7050-3.npy,D:\Cilia Data\first_frames\7050-3.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7050-4.npy,D:\Cilia Data\converted_masks\full\7050-4.npy,D:\Cilia Data\first_frames\7050-4.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7050-5.npy,D:\Cilia Data\converted_masks\full\7050-5.npy,D:\Cilia Data\first_frames\7050-5.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7050-6.npy,D:\Cilia Data\converted_masks\full\7050-6.npy,D:\Cilia Data\first_frames\7050-6.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7050-7.npy,D:\Cilia Data\converted_masks\full\7050-7.npy,D:\Cilia Data\first_frames\7050-7.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7051-2.npy,D:\Cilia Data\converted_masks\full\7051-2.npy,D:\Cilia Data\first_frames\7051-2.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7051-3.npy,D:\Cilia Data\converted_masks\full\7051-3.npy,D:\Cilia Data\first_frames\7051-3.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7051-4.npy,D:\Cilia Data\converted_masks\full\7051-4.npy,D:\Cilia Data\first_frames\7051-4.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7051-5.npy,D:\Cilia Data\converted_masks\full\7051-5.npy,D:\Cilia Data\first_frames\7051-5.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7069-6.npy,D:\Cilia Data\converted_masks\full\7069-6.npy,D:\Cilia Data\first_frames\7069-6.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7096-10.npy,D:\Cilia Data\converted_masks\full\7096-10.npy,D:\Cilia Data\first_frames\7096-10.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7096-5.npy,D:\Cilia Data\converted_masks\full\7096-5.npy,D:\Cilia Data\first_frames\7096-5.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7096-7.npy,D:\Cilia Data\converted_masks\full\7096-7.npy,D:\Cilia Data\first_frames\7096-7.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7101-10.npy,D:\Cilia Data\converted_masks\full\7101-10.npy,D:\Cilia Data\first_frames\7101-10.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7101-13.npy,D:\Cilia Data\converted_masks\full\7101-13.npy,D:\Cilia Data\first_frames\7101-13.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7101-14.npy,D:\Cilia Data\converted_masks\full\7101-14.npy,D:\Cilia Data\first_frames\7101-14.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7127-16.npy,D:\Cilia Data\converted_masks\full\7127-16.npy,D:\Cilia Data\first_frames\7127-16.png,512x384,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7127-17.npy,D:\Cilia Data\converted_masks\full\7127-17.npy,D:\Cilia Data\first_frames\7127-17.png,512x384,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7132-13.npy,D:\Cilia Data\converted_masks\full\7132-13.npy,D:\Cilia Data\first_frames\7132-13.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7132-18.npy,D:\Cilia Data\converted_masks\full\7132-18.npy,D:\Cilia Data\first_frames\7132-18.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7132-20.npy,D:\Cilia Data\converted_masks\full\7132-20.npy,D:\Cilia Data\first_frames\7132-20.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7132-3.npy,D:\Cilia Data\converted_masks\full\7132-3.npy,D:\Cilia Data\first_frames\7132-3.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7152-13.npy,D:\Cilia Data\converted_masks\full\7152-13.npy,D:\Cilia Data\first_frames\7152-13.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7160-10.npy,D:\Cilia Data\converted_masks\full\7160-10.npy,D:\Cilia Data\first_frames\7160-10.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7160-3.npy,D:\Cilia Data\converted_masks\full\7160-3.npy,D:\Cilia Data\first_frames\7160-3.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7160-5.npy,D:\Cilia Data\converted_masks\full\7160-5.npy,D:\Cilia Data\first_frames\7160-5.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7160-6.npy,D:\Cilia Data\converted_masks\full\7160-6.npy,D:\Cilia Data\first_frames\7160-6.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7208-11.npy,D:\Cilia Data\converted_masks\full\7208-11.npy,D:\Cilia Data\first_frames\7208-11.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7208-12.npy,D:\Cilia Data\converted_masks\full\7208-12.npy,D:\Cilia Data\first_frames\7208-12.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7208-15.npy,D:\Cilia Data\converted_masks\full\7208-15.npy,D:\Cilia Data\first_frames\7208-15.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7208-8.npy,D:\Cilia Data\converted_masks\full\7208-8.npy,D:\Cilia Data\first_frames\7208-8.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7235-12.npy,D:\Cilia Data\converted_masks\full\7235-12.npy,D:\Cilia Data\first_frames\7235-12.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7235-3.npy,D:\Cilia Data\converted_masks\full\7235-3.npy,D:\Cilia Data\first_frames\7235-3.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7235-7.npy,D:\Cilia Data\converted_masks\full\7235-7.npy,D:\Cilia Data\first_frames\7235-7.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7241-12.npy,D:\Cilia Data\converted_masks\full\7241-12.npy,D:\Cilia Data\first_frames\7241-12.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7241-6.npy,D:\Cilia Data\converted_masks\full\7241-6.npy,D:\Cilia Data\first_frames\7241-6.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7241-8.npy,D:\Cilia Data\converted_masks\full\7241-8.npy,D:\Cilia Data\first_frames\7241-8.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7246-1.npy,D:\Cilia Data\converted_masks\full\7246-1.npy,D:\Cilia Data\first_frames\7246-1.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7246-12.npy,D:\Cilia Data\converted_masks\full\7246-12.npy,D:\Cilia Data\first_frames\7246-12.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7246-2.npy,D:\Cilia Data\converted_masks\full\7246-2.npy,D:\Cilia Data\first_frames\7246-2.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7246-4.npy,D:\Cilia Data\converted_masks\full\7246-4.npy,D:\Cilia Data\first_frames\7246-4.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7246-5.npy,D:\Cilia Data\converted_masks\full\7246-5.npy,D:\Cilia Data\first_frames\7246-5.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7246-7.npy,D:\Cilia Data\converted_masks\full\7246-7.npy,D:\Cilia Data\first_frames\7246-7.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7246-8.npy,D:\Cilia Data\converted_masks\full\7246-8.npy,D:\Cilia Data\first_frames\7246-8.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7246-9.npy,D:\Cilia Data\converted_masks\full\7246-9.npy,D:\Cilia Data\first_frames\7246-9.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7254-12.npy,D:\Cilia Data\converted_masks\full\7254-12.npy,D:\Cilia Data\first_frames\7254-12.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7254-3.npy,D:\Cilia Data\converted_masks\full\7254-3.npy,D:\Cilia Data\first_frames\7254-3.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7254-5.npy,D:\Cilia Data\converted_masks\full\7254-5.npy,D:\Cilia Data\first_frames\7254-5.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7254-7.npy,D:\Cilia Data\converted_masks\full\7254-7.npy,D:\Cilia Data\first_frames\7254-7.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7254-8.npy,D:\Cilia Data\converted_masks\full\7254-8.npy,D:\Cilia Data\first_frames\7254-8.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7261-10.npy,D:\Cilia Data\converted_masks\full\7261-10.npy,D:\Cilia Data\first_frames\7261-10.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7269-2.npy,D:\Cilia Data\converted_masks\full\7269-2.npy,D:\Cilia Data\first_frames\7269-2.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7280-11.npy,D:\Cilia Data\converted_masks\full\7280-11.npy,D:\Cilia Data\first_frames\7280-11.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7280-12.npy,D:\Cilia Data\converted_masks\full\7280-12.npy,D:\Cilia Data\first_frames\7280-12.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7280-4.npy,D:\Cilia Data\converted_masks\full\7280-4.npy,D:\Cilia Data\first_frames\7280-4.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7280-7.npy,D:\Cilia Data\converted_masks\full\7280-7.npy,D:\Cilia Data\first_frames\7280-7.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7280-8.npy,D:\Cilia Data\converted_masks\full\7280-8.npy,D:\Cilia Data\first_frames\7280-8.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7281-5.npy,D:\Cilia Data\converted_masks\full\7281-5.npy,D:\Cilia Data\first_frames\7281-5.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7281-6.npy,D:\Cilia Data\converted_masks\full\7281-6.npy,D:\Cilia Data\first_frames\7281-6.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7281-7.npy,D:\Cilia Data\converted_masks\full\7281-7.npy,D:\Cilia Data\first_frames\7281-7.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7286-1.npy,D:\Cilia Data\converted_masks\full\7286-1.npy,D:\Cilia Data\first_frames\7286-1.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7286-3.npy,D:\Cilia Data\converted_masks\full\7286-3.npy,D:\Cilia Data\first_frames\7286-3.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7286-5.npy,D:\Cilia Data\converted_masks\full\7286-5.npy,D:\Cilia Data\first_frames\7286-5.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7286-9.npy,D:\Cilia Data\converted_masks\full\7286-9.npy,D:\Cilia Data\first_frames\7286-9.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7287-1.npy,D:\Cilia Data\converted_masks\full\7287-1.npy,D:\Cilia Data\first_frames\7287-1.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7287-7.npy,D:\Cilia Data\converted_masks\full\7287-7.npy,D:\Cilia Data\first_frames\7287-7.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7287-9.npy,D:\Cilia Data\converted_masks\full\7287-9.npy,D:\Cilia Data\first_frames\7287-9.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7318-1.npy,D:\Cilia Data\converted_masks\full\7318-1.npy,D:\Cilia Data\first_frames\7318-1.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7318-10.npy,D:\Cilia Data\converted_masks\full\7318-10.npy,D:\Cilia Data\first_frames\7318-10.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7318-11.npy,D:\Cilia Data\converted_masks\full\7318-11.npy,D:\Cilia Data\first_frames\7318-11.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7318-12.npy,D:\Cilia Data\converted_masks\full\7318-12.npy,D:\Cilia Data\first_frames\7318-12.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7318-2.npy,D:\Cilia Data\converted_masks\full\7318-2.npy,D:\Cilia Data\first_frames\7318-2.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7318-3.npy,D:\Cilia Data\converted_masks\full\7318-3.npy,D:\Cilia Data\first_frames\7318-3.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7318-4.npy,D:\Cilia Data\converted_masks\full\7318-4.npy,D:\Cilia Data\first_frames\7318-4.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7318-5.npy,D:\Cilia Data\converted_masks\full\7318-5.npy,D:\Cilia Data\first_frames\7318-5.png,640x480,abnormal,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7318-6.npy,D:\Cilia Data\converted_masks\full\7318-6.npy,D:\Cilia Data\first_frames\7318-6.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\7318-7.npy,D:\Cilia Data\converted_masks\full\7318-7.npy,D:\Cilia Data\first_frames\7318-7.png,640x480,abnormal,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9003-1a200.npy,D:\Cilia Data\converted_masks\full\9003-1a200.npy,D:\Cilia Data\first_frames\9003-1a200.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9003-1b200.npy,D:\Cilia Data\converted_masks\full\9003-1b200.npy,D:\Cilia Data\first_frames\9003-1b200.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9003-1c200.npy,D:\Cilia Data\converted_masks\full\9003-1c200.npy,D:\Cilia Data\first_frames\9003-1c200.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9003-1d200.npy,D:\Cilia Data\converted_masks\full\9003-1d200.npy,D:\Cilia Data\first_frames\9003-1d200.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9013b.npy,D:\Cilia Data\converted_masks\full\9013b.npy,D:\Cilia Data\first_frames\9013b.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9013f.npy,D:\Cilia Data\converted_masks\full\9013f.npy,D:\Cilia Data\first_frames\9013f.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9013g.npy,D:\Cilia Data\converted_masks\full\9013g.npy,D:\Cilia Data\first_frames\9013g.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9013h.npy,D:\Cilia Data\converted_masks\full\9013h.npy,D:\Cilia Data\first_frames\9013h.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9013j.npy,D:\Cilia Data\converted_masks\full\9013j.npy,D:\Cilia Data\first_frames\9013j.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9013k.npy,D:\Cilia Data\converted_masks\full\9013k.npy,D:\Cilia Data\first_frames\9013k.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9013l.npy,D:\Cilia Data\converted_masks\full\9013l.npy,D:\Cilia Data\first_frames\9013l.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9013s.npy,D:\Cilia Data\converted_masks\full\9013s.npy,D:\Cilia Data\first_frames\9013s.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9013u.npy,D:\Cilia Data\converted_masks\full\9013u.npy,D:\Cilia Data\first_frames\9013u.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9013y.npy,D:\Cilia Data\converted_masks\full\9013y.npy,D:\Cilia Data\first_frames\9013y.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\901910.npy,D:\Cilia Data\converted_masks\full\901910.npy,D:\Cilia Data\first_frames\901910.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\901912.npy,D:\Cilia Data\converted_masks\full\901912.npy,D:\Cilia Data\first_frames\901912.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90192.npy,D:\Cilia Data\converted_masks\full\90192.npy,D:\Cilia Data\first_frames\90192.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90193.npy,D:\Cilia Data\converted_masks\full\90193.npy,D:\Cilia Data\first_frames\90193.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90197.npy,D:\Cilia Data\converted_masks\full\90197.npy,D:\Cilia Data\first_frames\90197.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90198.npy,D:\Cilia Data\converted_masks\full\90198.npy,D:\Cilia Data\first_frames\90198.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90201a.npy,D:\Cilia Data\converted_masks\full\90201a.npy,D:\Cilia Data\first_frames\90201a.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90201b.npy,D:\Cilia Data\converted_masks\full\90201b.npy,D:\Cilia Data\first_frames\90201b.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90201c.npy,D:\Cilia Data\converted_masks\full\90201c.npy,D:\Cilia Data\first_frames\90201c.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90201e.npy,D:\Cilia Data\converted_masks\full\90201e.npy,D:\Cilia Data\first_frames\90201e.png,256x256,indeterminate,False,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90201f.npy,D:\Cilia Data\converted_masks\full\90201f.npy,D:\Cilia Data\first_frames\90201f.png,256x256,indeterminate,False,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90201i.npy,D:\Cilia Data\converted_masks\full\90201i.npy,D:\Cilia Data\first_frames\90201i.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90201k.npy,D:\Cilia Data\converted_masks\full\90201k.npy,D:\Cilia Data\first_frames\90201k.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90221.npy,D:\Cilia Data\converted_masks\full\90221.npy,D:\Cilia Data\first_frames\90221.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90222.npy,D:\Cilia Data\converted_masks\full\90222.npy,D:\Cilia Data\first_frames\90222.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90226.npy,D:\Cilia Data\converted_masks\full\90226.npy,D:\Cilia Data\first_frames\90226.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90231.npy,D:\Cilia Data\converted_masks\full\90231.npy,D:\Cilia Data\first_frames\90231.png,512x512,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90232.npy,D:\Cilia Data\converted_masks\full\90232.npy,D:\Cilia Data\first_frames\90232.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90234.npy,D:\Cilia Data\converted_masks\full\90234.npy,D:\Cilia Data\first_frames\90234.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90235.npy,D:\Cilia Data\converted_masks\full\90235.npy,D:\Cilia Data\first_frames\90235.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90242.npy,D:\Cilia Data\converted_masks\full\90242.npy,D:\Cilia Data\first_frames\90242.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90243.npy,D:\Cilia Data\converted_masks\full\90243.npy,D:\Cilia Data\first_frames\90243.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90244.npy,D:\Cilia Data\converted_masks\full\90244.npy,D:\Cilia Data\first_frames\90244.png,256x384,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90249.npy,D:\Cilia Data\converted_masks\full\90249.npy,D:\Cilia Data\first_frames\90249.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90251.npy,D:\Cilia Data\converted_masks\full\90251.npy,D:\Cilia Data\first_frames\90251.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90253.npy,D:\Cilia Data\converted_masks\full\90253.npy,D:\Cilia Data\first_frames\90253.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90254.npy,D:\Cilia Data\converted_masks\full\90254.npy,D:\Cilia Data\first_frames\90254.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\902541o5x.npy,D:\Cilia Data\converted_masks\full\902541o5x.npy,D:\Cilia Data\first_frames\902541o5x.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90256.npy,D:\Cilia Data\converted_masks\full\90256.npy,D:\Cilia Data\first_frames\90256.png,512x384,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\902571o5x.npy,D:\Cilia Data\converted_masks\full\902571o5x.npy,D:\Cilia Data\first_frames\902571o5x.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90262.npy,D:\Cilia Data\converted_masks\full\90262.npy,D:\Cilia Data\first_frames\90262.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90263.npy,D:\Cilia Data\converted_masks\full\90263.npy,D:\Cilia Data\first_frames\90263.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90265.npy,D:\Cilia Data\converted_masks\full\90265.npy,D:\Cilia Data\first_frames\90265.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\902671o5x.npy,D:\Cilia Data\converted_masks\full\902671o5x.npy,D:\Cilia Data\first_frames\902671o5x.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90268.npy,D:\Cilia Data\converted_masks\full\90268.npy,D:\Cilia Data\first_frames\90268.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90271.npy,D:\Cilia Data\converted_masks\full\90271.npy,D:\Cilia Data\first_frames\90271.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90272.npy,D:\Cilia Data\converted_masks\full\90272.npy,D:\Cilia Data\first_frames\90272.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9028-1.npy,D:\Cilia Data\converted_masks\full\9028-1.npy,D:\Cilia Data\first_frames\9028-1.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9028-2.npy,D:\Cilia Data\converted_masks\full\9028-2.npy,D:\Cilia Data\first_frames\9028-2.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9028-3.npy,D:\Cilia Data\converted_masks\full\9028-3.npy,D:\Cilia Data\first_frames\9028-3.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9028-4.npy,D:\Cilia Data\converted_masks\full\9028-4.npy,D:\Cilia Data\first_frames\9028-4.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9028-6.npy,D:\Cilia Data\converted_masks\full\9028-6.npy,D:\Cilia Data\first_frames\9028-6.png,256x384,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9028-7.npy,D:\Cilia Data\converted_masks\full\9028-7.npy,D:\Cilia Data\first_frames\9028-7.png,256x384,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90281.npy,D:\Cilia Data\converted_masks\full\90281.npy,D:\Cilia Data\first_frames\90281.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90282.npy,D:\Cilia Data\converted_masks\full\90282.npy,D:\Cilia Data\first_frames\90282.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90286.npy,D:\Cilia Data\converted_masks\full\90286.npy,D:\Cilia Data\first_frames\90286.png,256x384,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90287.npy,D:\Cilia Data\converted_masks\full\90287.npy,D:\Cilia Data\first_frames\90287.png,256x384,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90291a.npy,D:\Cilia Data\converted_masks\full\90291a.npy,D:\Cilia Data\first_frames\90291a.png,512x512,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90291c.npy,D:\Cilia Data\converted_masks\full\90291c.npy,D:\Cilia Data\first_frames\90291c.png,384x384,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90291f.npy,D:\Cilia Data\converted_masks\full\90291f.npy,D:\Cilia Data\first_frames\90291f.png,384x384,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90291g.npy,D:\Cilia Data\converted_masks\full\90291g.npy,D:\Cilia Data\first_frames\90291g.png,384x384,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\903113.npy,D:\Cilia Data\converted_masks\full\903113.npy,D:\Cilia Data\first_frames\903113.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\903117.npy,D:\Cilia Data\converted_masks\full\903117.npy,D:\Cilia Data\first_frames\903117.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9031191o5x.npy,D:\Cilia Data\converted_masks\full\9031191o5x.npy,D:\Cilia Data\first_frames\9031191o5x.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9031201o5x.npy,D:\Cilia Data\converted_masks\full\9031201o5x.npy,D:\Cilia Data\first_frames\9031201o5x.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90314.npy,D:\Cilia Data\converted_masks\full\90314.npy,D:\Cilia Data\first_frames\90314.png,512x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90315.npy,D:\Cilia Data\converted_masks\full\90315.npy,D:\Cilia Data\first_frames\90315.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90322.npy,D:\Cilia Data\converted_masks\full\90322.npy,D:\Cilia Data\first_frames\90322.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90324.npy,D:\Cilia Data\converted_masks\full\90324.npy,D:\Cilia Data\first_frames\90324.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90325.npy,D:\Cilia Data\converted_masks\full\90325.npy,D:\Cilia Data\first_frames\90325.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\903311.npy,D:\Cilia Data\converted_masks\full\903311.npy,D:\Cilia Data\first_frames\903311.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90332.npy,D:\Cilia Data\converted_masks\full\90332.npy,D:\Cilia Data\first_frames\90332.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90333.npy,D:\Cilia Data\converted_masks\full\90333.npy,D:\Cilia Data\first_frames\90333.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90334.npy,D:\Cilia Data\converted_masks\full\90334.npy,D:\Cilia Data\first_frames\90334.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90338.npy,D:\Cilia Data\converted_masks\full\90338.npy,D:\Cilia Data\first_frames\90338.png,256x512,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90339.npy,D:\Cilia Data\converted_masks\full\90339.npy,D:\Cilia Data\first_frames\90339.png,256x512,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90341.npy,D:\Cilia Data\converted_masks\full\90341.npy,D:\Cilia Data\first_frames\90341.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90346.npy,D:\Cilia Data\converted_masks\full\90346.npy,D:\Cilia Data\first_frames\90346.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90347.npy,D:\Cilia Data\converted_masks\full\90347.npy,D:\Cilia Data\first_frames\90347.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90348.npy,D:\Cilia Data\converted_masks\full\90348.npy,D:\Cilia Data\first_frames\90348.png,512x128,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90349.npy,D:\Cilia Data\converted_masks\full\90349.npy,D:\Cilia Data\first_frames\90349.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\903511.npy,D:\Cilia Data\converted_masks\full\903511.npy,D:\Cilia Data\first_frames\903511.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\903513.npy,D:\Cilia Data\converted_masks\full\903513.npy,D:\Cilia Data\first_frames\903513.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\903514.npy,D:\Cilia Data\converted_masks\full\903514.npy,D:\Cilia Data\first_frames\903514.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90353.npy,D:\Cilia Data\converted_masks\full\90353.npy,D:\Cilia Data\first_frames\90353.png,512x384,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90355.npy,D:\Cilia Data\converted_masks\full\90355.npy,D:\Cilia Data\first_frames\90355.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90361.npy,D:\Cilia Data\converted_masks\full\90361.npy,D:\Cilia Data\first_frames\90361.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\903612.npy,D:\Cilia Data\converted_masks\full\903612.npy,D:\Cilia Data\first_frames\903612.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\903614.npy,D:\Cilia Data\converted_masks\full\903614.npy,D:\Cilia Data\first_frames\903614.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90365.npy,D:\Cilia Data\converted_masks\full\90365.npy,D:\Cilia Data\first_frames\90365.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90367.npy,D:\Cilia Data\converted_masks\full\90367.npy,D:\Cilia Data\first_frames\90367.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90372.npy,D:\Cilia Data\converted_masks\full\90372.npy,D:\Cilia Data\first_frames\90372.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90373.npy,D:\Cilia Data\converted_masks\full\90373.npy,D:\Cilia Data\first_frames\90373.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90374.npy,D:\Cilia Data\converted_masks\full\90374.npy,D:\Cilia Data\first_frames\90374.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90382.npy,D:\Cilia Data\converted_masks\full\90382.npy,D:\Cilia Data\first_frames\90382.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90384.npy,D:\Cilia Data\converted_masks\full\90384.npy,D:\Cilia Data\first_frames\90384.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90385.npy,D:\Cilia Data\converted_masks\full\90385.npy,D:\Cilia Data\first_frames\90385.png,256x512,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\90386.npy,D:\Cilia Data\converted_masks\full\90386.npy,D:\Cilia Data\first_frames\90386.png,256x512,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9042d.npy,D:\Cilia Data\converted_masks\full\9042d.npy,D:\Cilia Data\first_frames\9042d.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9042f.npy,D:\Cilia Data\converted_masks\full\9042f.npy,D:\Cilia Data\first_frames\9042f.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9042h.npy,D:\Cilia Data\converted_masks\full\9042h.npy,D:\Cilia Data\first_frames\9042h.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9043e.npy,D:\Cilia Data\converted_masks\full\9043e.npy,D:\Cilia Data\first_frames\9043e.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9043f.npy,D:\Cilia Data\converted_masks\full\9043f.npy,D:\Cilia Data\first_frames\9043f.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9043i.npy,D:\Cilia Data\converted_masks\full\9043i.npy,D:\Cilia Data\first_frames\9043i.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9043k.npy,D:\Cilia Data\converted_masks\full\9043k.npy,D:\Cilia Data\first_frames\9043k.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9044c.npy,D:\Cilia Data\converted_masks\full\9044c.npy,D:\Cilia Data\first_frames\9044c.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9044e.npy,D:\Cilia Data\converted_masks\full\9044e.npy,D:\Cilia Data\first_frames\9044e.png,256x512,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9044f.npy,D:\Cilia Data\converted_masks\full\9044f.npy,D:\Cilia Data\first_frames\9044f.png,256x128,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9044g.npy,D:\Cilia Data\converted_masks\full\9044g.npy,D:\Cilia Data\first_frames\9044g.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9044h.npy,D:\Cilia Data\converted_masks\full\9044h.npy,D:\Cilia Data\first_frames\9044h.png,128x128,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9045f.npy,D:\Cilia Data\converted_masks\full\9045f.npy,D:\Cilia Data\first_frames\9045f.png,256x128,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9045h.npy,D:\Cilia Data\converted_masks\full\9045h.npy,D:\Cilia Data\first_frames\9045h.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9045i.npy,D:\Cilia Data\converted_masks\full\9045i.npy,D:\Cilia Data\first_frames\9045i.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9045k.npy,D:\Cilia Data\converted_masks\full\9045k.npy,D:\Cilia Data\first_frames\9045k.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9048a.npy,D:\Cilia Data\converted_masks\full\9048a.npy,D:\Cilia Data\first_frames\9048a.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9048d.npy,D:\Cilia Data\converted_masks\full\9048d.npy,D:\Cilia Data\first_frames\9048d.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9048g.npy,D:\Cilia Data\converted_masks\full\9048g.npy,D:\Cilia Data\first_frames\9048g.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9048j.npy,D:\Cilia Data\converted_masks\full\9048j.npy,D:\Cilia Data\first_frames\9048j.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9049d.npy,D:\Cilia Data\converted_masks\full\9049d.npy,D:\Cilia Data\first_frames\9049d.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9049j.npy,D:\Cilia Data\converted_masks\full\9049j.npy,D:\Cilia Data\first_frames\9049j.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9049m.npy,D:\Cilia Data\converted_masks\full\9049m.npy,D:\Cilia Data\first_frames\9049m.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9049n.npy,D:\Cilia Data\converted_masks\full\9049n.npy,D:\Cilia Data\first_frames\9049n.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9049p.npy,D:\Cilia Data\converted_masks\full\9049p.npy,D:\Cilia Data\first_frames\9049p.png,512x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9049q.npy,D:\Cilia Data\converted_masks\full\9049q.npy,D:\Cilia Data\first_frames\9049q.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9049s.npy,D:\Cilia Data\converted_masks\full\9049s.npy,D:\Cilia Data\first_frames\9049s.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9049t.npy,D:\Cilia Data\converted_masks\full\9049t.npy,D:\Cilia Data\first_frames\9049t.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9050c1.npy,D:\Cilia Data\converted_masks\full\9050c1.npy,D:\Cilia Data\first_frames\9050c1.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9050d1.npy,D:\Cilia Data\converted_masks\full\9050d1.npy,D:\Cilia Data\first_frames\9050d1.png,512x512,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9050l.npy,D:\Cilia Data\converted_masks\full\9050l.npy,D:\Cilia Data\first_frames\9050l.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9050n.npy,D:\Cilia Data\converted_masks\full\9050n.npy,D:\Cilia Data\first_frames\9050n.png,256x256,indeterminate,False,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9050p.npy,D:\Cilia Data\converted_masks\full\9050p.npy,D:\Cilia Data\first_frames\9050p.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9050q.npy,D:\Cilia Data\converted_masks\full\9050q.npy,D:\Cilia Data\first_frames\9050q.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9051a.npy,D:\Cilia Data\converted_masks\full\9051a.npy,D:\Cilia Data\first_frames\9051a.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9051b.npy,D:\Cilia Data\converted_masks\full\9051b.npy,D:\Cilia Data\first_frames\9051b.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9051e.npy,D:\Cilia Data\converted_masks\full\9051e.npy,D:\Cilia Data\first_frames\9051e.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9051g.npy,D:\Cilia Data\converted_masks\full\9051g.npy,D:\Cilia Data\first_frames\9051g.png,256x256,indeterminate,True,True,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9051j.npy,D:\Cilia Data\converted_masks\full\9051j.npy,D:\Cilia Data\first_frames\9051j.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9051m.npy,D:\Cilia Data\converted_masks\full\9051m.npy,D:\Cilia Data\first_frames\9051m.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9051s.npy,D:\Cilia Data\converted_masks\full\9051s.npy,D:\Cilia Data\first_frames\9051s.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9051t.npy,D:\Cilia Data\converted_masks\full\9051t.npy,D:\Cilia Data\first_frames\9051t.png,256x256,indeterminate,True,False,epithelial cells
+D:\Cilia Data\converted_masks\cilia\9051w.npy,D:\Cilia Data\converted_masks\full\9051w.npy,D:\Cilia Data\first_frames\9051w.png,512x512,indeterminate,True,False,epithelial cells
