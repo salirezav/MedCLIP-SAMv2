@@ -1,1 +1,6 @@
 *.png
+# biomedclip_finetuning/open_clip/scripts/fine-tune.ps1
+
+__pycache__/
+*.bin*
+*.pt*
