@@ -8,7 +8,7 @@ import glob
 from open_clip.hf_model import HFTextEncoder
 from open_clip.model import CLIPVisionCfg
 from transformers import CLIPVisionConfig, VisionTextDualEncoderConfig
-from modeling_biomed_clip import BiomedCLIPModel
+from .modeling_biomed_clip import BiomedCLIPModel
 
 
 VISION_CONFIG_MAP = {"layers": "num_hidden_layers", "width": "hidden_size", "patch_size": "patch_size", "image_size": "image_size"}
